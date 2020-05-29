@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <title>One Funnel Away Challenge</title>
-      <meta http-equiv = "refresh" content = "0; url = https://onefunnelaway.com/challenge" />
+      <title></title>
+      <meta http-equiv = "refresh" content = "0; url = https://blog.thetechmanual.com/review/1.html" />
    </head>
    <body>
       <p></p>
-<img src="/stats/yourfakeimage.jpg" width="1" height="1"/>	
    </body>
 </html>
